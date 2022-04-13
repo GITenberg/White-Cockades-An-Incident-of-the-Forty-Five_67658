@@ -1,0 +1,37 @@
+_repo: White-Cockades-An-Incident-of-the-Forty-Five_67658
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prime-Stevenson, Edward
+    aliases:
+    - Prime-Stevenson, Edward Irenaeus
+    - Mayne, Xavier
+    - Stevenson, E. Irenaeus (Edward Irenaeus)
+    - Stevenson, Edward Irenæus
+    - Stevenson, Edward Irenaeus
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '8814'
+    url: http://www.gutenberg.org/2009/agents/8814
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Irenaeus_Prime-Stevenson
+description: ''
+gutenberg_issued: '2022-03-19'
+identifiers:
+  gutenberg: '67658'
+  lccn: 08016090
+language: en
+pgterms:marc904: https://play.google.com/books/reader?id=ah5CAQAAMAAJ&pg=GBS.PP1&hl=en_GB
+pgterms:marc905: 20220108072214stevenson
+pgterms:marc906: '1887'
+pgterms:marc907: US
+production_note: anonymous Project Gutenberg volunteers
+publication_note: United States :Charles Scribner's Sons,1887.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jacobite Rebellion, 1745-1746 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'White Cockades: An Incident of the "Forty-Five"'
+url: http://www.gutenberg.org/ebooks/67658
